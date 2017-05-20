@@ -5,27 +5,31 @@
 
 
 ## NLP
-* NER (Named Entity Recognition)
+### NER (Named Entity Recognition)
 	
-	Stanford University NER Tool: <http://nlp.stanford.edu/software/CRF-NER.shtml>
+* Stanford University NER Tool: <http://nlp.stanford.edu/software/CRF-NER.shtml>
 	
-* Word2vec
+### Word2vec
 
-	Gensim: <https://radimrehurek.com/gensim/>
+* Gensim: <https://radimrehurek.com/gensim/>
 
-* POS(Part of Speech) Tagger
+### POS(Part of Speech) Tagger
 
-	Stanford University POS Tagger: <https://nlp.stanford.edu/software/tagger.html>
+* Stanford University POS Tagger: <https://nlp.stanford.edu/software/tagger.html>
 	
-	Korean POS Taggers KoNLPy: <http://konlpy-ko.readthedocs.io/ko/v0.4.3/>
+* Korean POS Taggers KoNLPy: <http://konlpy-ko.readthedocs.io/ko/v0.4.3/>
 	
 
 
 ## Machine Learning (or Deep Learning)
+
+### Machine Learning
+
 * Scikit-learn: <http://scikit-learn.org/>
 
 * LightGBM: <https://github.com/Microsoft/LightGBM>
 
+### Deep Learning
 * Tensorflow: <https://www.tensorflow.org/>
 
 * Keras: <https://keras.io/>
