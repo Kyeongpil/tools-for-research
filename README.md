@@ -18,6 +18,10 @@
 * Stanford University POS Tagger: <https://nlp.stanford.edu/software/tagger.html>
 	
 * Korean POS Taggers KoNLPy: <http://konlpy-ko.readthedocs.io/ko/v0.4.3/>
+
+### Word aligner
+
+* Fast-Align <https://github.com/clab/fast_align>
 	
 
 
