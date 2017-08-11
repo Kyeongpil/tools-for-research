@@ -6,18 +6,21 @@
 
 ## NLP
 ### NER (Named Entity Recognition)
-	
+
 * Stanford University NER Tool: <http://nlp.stanford.edu/software/CRF-NER.shtml>
-	
+
+
 ### Word2vec
 
 * Gensim: <https://radimrehurek.com/gensim/>
+
 
 ### POS(Part of Speech) Tagger
 
 * Stanford University POS Tagger: <https://nlp.stanford.edu/software/tagger.html>
 	
 * Korean POS Taggers KoNLPy: <http://konlpy-ko.readthedocs.io/ko/v0.4.3/>
+
 
 ### Word aligner
 
@@ -33,6 +36,7 @@
 
 * LightGBM: <https://github.com/Microsoft/LightGBM>
 
+
 ### Deep Learning
 * Tensorflow: <https://www.tensorflow.org/>
 
@@ -41,6 +45,13 @@
 * Pytorch: <http://pytorch.org/>
 
 * Theano: <http://deeplearning.net/software/theano/>
+
+
+
+## Data Mining
+
+### Network Analysis
+* networkx: <https://networkx.github.io/>
 
 
 ## Visualization
