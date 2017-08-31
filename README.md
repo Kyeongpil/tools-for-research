@@ -59,3 +59,8 @@
  
 * t-SNE: <https://lvdmaaten.github.io/tsne/>
 
+## Sound
+
+* LibROSA: python sound extraction library
+
+    <https://librosa.github.io/librosa/>
