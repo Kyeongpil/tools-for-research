@@ -64,3 +64,10 @@
 * LibROSA: python sound extraction library
 
     <https://librosa.github.io/librosa/>
+
+
+
+## ETC
+* Quandl(주식 API)
+
+    <https://docs.quandl.com/>
