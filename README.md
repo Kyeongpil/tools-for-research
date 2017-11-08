@@ -59,6 +59,9 @@
  
 * t-SNE: <https://lvdmaaten.github.io/tsne/>
 
+* JSNetworkX: <http://jsnetworkx.org/index.html>
+
+
 ## Sound
 
 * LibROSA: python sound extraction library
