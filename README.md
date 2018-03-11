@@ -53,6 +53,14 @@
 ### Network Analysis
 * networkx: <https://networkx.github.io/>
 
+### Fact Check
+* snopes: <https://www.snopes.com>
+
+* Politifact: <http://www.politifact.com/>
+
+* Trueth or fiction: <https://www.truthorfiction.com>
+
+
 
 ## Visualization
 * D3: <https://d3js.org/>
