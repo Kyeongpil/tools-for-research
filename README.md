@@ -53,6 +53,11 @@
 ### Network Analysis
 * networkx: <https://networkx.github.io/>
 
+* Publish or Perish
+
+    - Publish or Perish is a software program that retrieves and analyzes academic citations.
+    - https://harzing.com/resources/publish-or-perish
+
 ### Fact Check
 * snopes: <https://www.snopes.com>
 
